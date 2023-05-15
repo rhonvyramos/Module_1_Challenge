@@ -1,7 +1,7 @@
 # Code Refactoring
 ## Description
 
-A simple refactor of a web page's HTML and CSS elements to match proper HTML and CSS semantics.
+A simple refactor of a web page's HTML and CSS elements to match proper HTML and CSS semantics. This included renaming many <div> tags to proper semantically appropriate names and reducing CSS style redundancies. 
 
 ## Installation
 
