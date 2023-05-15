@@ -5,7 +5,7 @@ A simple refactor of a web page's HTML and CSS elements to match proper HTML and
 
 ## Installation
 
-Simply clone the repository onto your machine and open the index.html file through a live server.
+Simply clone the repository onto your machine and open the index.html file through a live server. The index.html file is located inside the Develop folder.
 
 ## Use
 
